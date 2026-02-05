@@ -1,4 +1,4 @@
-# DNMC Aspen Plus Process Model (Joule submission)
+# DNMC Aspen Plus Process Model (Nature chemical engineering submission)
 
 This repository is **publicly accessible** and does **not require any login or personal information**.
 

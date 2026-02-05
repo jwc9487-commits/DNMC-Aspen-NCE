@@ -20,4 +20,4 @@ However, the full model structure, assumptions, input data, and representative o
 to allow reviewers/readers to access and evaluate the model without logging in or providing personal information.
 
 ## Citation
-If you use this repository, please cite the associated Joule manuscript.
+If you use this repository, please cite the associated Nature chemical engineering manuscript.
